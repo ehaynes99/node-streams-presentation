@@ -1,0 +1,16 @@
+{
+  "name": "node-streams-presentation",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Eric Haynes",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.6.1",
+    "eslint-config-erich-node": "^1.1.10",
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  }
+}

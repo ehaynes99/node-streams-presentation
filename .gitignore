@@ -1,0 +1,9 @@
+dist/
+coverage/
+tmp/
+node_modules/
+*.tsbuildinfo
+
+# OS metadata
+.DS_Store
+Thumbs.db
